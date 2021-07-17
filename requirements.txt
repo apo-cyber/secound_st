@@ -1,0 +1,7 @@
+from azure.cognitiveservices.vision.computervision import ComputerVisionClient
+from msrest.authentication import CognitiveServicesCredentials
+PIL import Image
+json
+streamlit
+from PIL import ImageDraw
+from PIL import ImageFont
