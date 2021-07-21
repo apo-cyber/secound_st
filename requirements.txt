@@ -1,13 +1,15 @@
-from azure.cognitiveservices.vision.computervision import ComputerVisionClient
-from azure.cognitiveservices.vision.computervision.models import OperationStatusCodes
-from azure.cognitiveservices.vision.computervision.models import VisualFeatureTypes
-from msrest.authentication import CognitiveServicesCredentials
+azure.cognitiveservices.vision.computervision.ComputerVisionClient
+azure.cognitiveservices.vision.computervision.models.OperationStatusCodes
+azure.cognitiveservices.vision.computervision.models.VisualFeatureTypes
+msrest.authentication.CognitiveServicesCredentials
 
-from array import array
-import os
-from PIL import Image
-import sys
-import time
-import json
+array.array
+os
+PIL.Image
+sys
+time
+json
 
 streamlit
+PIL.ImageDraw
+PIL.ImageFont
