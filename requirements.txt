@@ -1,15 +1,1 @@
-azure.cognitiveservices.vision.computervision.ComputerVisionClient
-azure.cognitiveservices.vision.computervision.models.OperationStatusCodes
-azure.cognitiveservices.vision.computervision.models.VisualFeatureTypes
-msrest.authentication.CognitiveServicesCredentials
-
-array.array
-os
-PIL.Image
-sys
-time
-json
-
-streamlit
-PIL.ImageDraw
-PIL.ImageFont
+streamlit==0.84.0
