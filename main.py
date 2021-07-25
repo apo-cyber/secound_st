@@ -39,6 +39,7 @@ import streamlit as st
 from PIL import ImageDraw
 from PIL import ImageFont
 
+st.markdown('** apo_cyber present **')
 st.title('Object Detection App ')
 
 upload_file=st.file_uploader('choose an image...', type=['jpg', 'png'])
